@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>DubSkylightsGlassPatch</identifier>
+    <version>0.1.0.0</version>
+	    <dependencies>
+        <li>Dubs Skylights</li>
+        <li>Glass+Lights</li>
+    </dependencies>
+	    <suggests>
+        <li>Dubs Skylights</li>
+        <li>Glass+Lights</li>
+		</suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/Maaxar/DubSkylightsGlassPatch/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Maaxar/DubSkylightsGlassPatch/releases/latest</downloadUri>
+</Manifest>
