@@ -3,7 +3,7 @@
     <identifier>DubSkylightsGlassPatch</identifier>
     <version>0.1.0.0</version>
 	    <dependencies>
-        <li>Dubs Skylights</li>
+        <li>DubsSkylights</li>
         <li>Glass+Lights</li>
     </dependencies>
 	    <suggests>
