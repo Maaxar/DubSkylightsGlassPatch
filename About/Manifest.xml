@@ -6,6 +6,10 @@
         <li>DubsSkylights</li>
         <li>Glass+Lights</li>
     </dependencies>
+	    <loadAfter>
+        <li>DubsSkylights</li>
+        <li>Glass+Lights</li>
+    </loadAfter>
 	    <suggests>
         <li>Dubs Skylights</li>
         <li>Glass+Lights</li>
