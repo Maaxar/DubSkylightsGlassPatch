@@ -1,16 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>DubSkylightsGlassPatch</identifier>
-    <version>0.1.0.0</version>
-	    <dependencies>
+    <version>0.1.1.0</version>
+	<dependencies>
+		<li>Harmony</li>
         <li>DubsSkylights</li>
         <li>Glass+Lights</li>
     </dependencies>
-	    <loadAfter>
+	<loadAfter>
+		<li>Harmony</li>
         <li>DubsSkylights</li>
         <li>Glass+Lights</li>
     </loadAfter>
-	    <suggests>
+	<suggests>
+		<li>Harmony</li>
         <li>Dubs Skylights</li>
         <li>Glass+Lights</li>
 		</suggests>
