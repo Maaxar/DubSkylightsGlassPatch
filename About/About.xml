@@ -19,17 +19,12 @@
 			<downloadUrl>https://github.com/Dubwise56/Skylights/releases/latest</downloadUrl>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/833899765</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>NanoCE.GlassLights</packageId>
-			<displayName>Glass + Lights</displayName>
-			<downloadUrl>https://ludeon.com/forums/index.php?topic=14870.0</downloadUrl>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/826153738</steamWorkshopUrl>
-		</li>	
 	</modDependencies>
 	<loadAfter>
 		<li>brrainz.harmony</li>
 		<li>Dubwise.DubsSkylights</li>
 		<li>NanoCE.GlassLights</li>
+		<li>spoden.JustGlass</li>	
 	</loadAfter>
 	<description>
 Patches the skylights in Dubs Skylights mod to use the Glass from the Glass+Lights mod.

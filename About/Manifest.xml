@@ -5,18 +5,19 @@
 	<dependencies>
 		<li>Harmony</li>
         <li>DubsSkylights</li>
-        <li>Glass+Lights</li>
     </dependencies>
 	<loadAfter>
 		<li>Harmony</li>
         <li>DubsSkylights</li>
         <li>Glass+Lights</li>
+		<li>Just Glass</li>
     </loadAfter>
 	<suggests>
 		<li>Harmony</li>
         <li>Dubs Skylights</li>
         <li>Glass+Lights</li>
-		</suggests>
+		<li>Just Glass</li>
+	</suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Maaxar/DubSkylightsGlassPatch/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/Maaxar/DubSkylightsGlassPatch/releases/latest</downloadUri>
