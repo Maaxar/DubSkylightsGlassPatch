@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Dubs Skylights Glass+Lights Patch</name>
+	<name>Dubs Skylights (Glass Patch)</name>
 	<author>Maaxar</author>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
-	<packageId>Maaxar.DubsSkylights.GlassLightsPatch</packageId>
+	<packageId>Maaxar.DubsSkylights.GlassPatch</packageId>
 	<description>
 Patches the skylights in Dubs Skylights mod to use the Glass from the Glass+Lights mod (or the "Just Glass" mod).
 

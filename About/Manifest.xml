@@ -4,8 +4,6 @@
     <version>0.1.2.0</version>
 	<suggests>
         <li>Dubs Skylights</li>
-        <li>Glass+Lights</li>
-		<li>Just Glass</li>
 	</suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Maaxar/DubSkylightsGlassPatch/master/About/Manifest.xml</manifestUri>
