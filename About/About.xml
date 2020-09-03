@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Dubs Skylights (Glass Patch)</name>
+	<name>Dubs Skylights Glass+Lights Patch</name>
 	<author>Maaxar</author>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
-	<packageId>Maaxar.DubsSkylights.GlassPatch</packageId>
+	<packageId>Maaxar.DubsSkylights.glasslights.patch</packageId>
 	<description>
-Patches the skylights in Dubs Skylights mod to use the Glass from the Glass+Lights mod (or the "Just Glass" mod).
+Patches the skylights in Dubs Skylights mod to use the Glass from NanoCE's Glass+Lights mod, spoden's "Just Glass" mod, or any other mod that adds an object with the defName "Glass".
+
+Dubs Skylights - https://steamcommunity.com/sharedfiles/filedetails/?id=833899765
+Glass+Lights - https://steamcommunity.com/sharedfiles/filedetails/?id=826153738
+Just Lights - https://steamcommunity.com/sharedfiles/filedetails/?id=2045368641
 
 Also removes the "Glass Pane" recipe and item from the Dubs Skylights mod
 
-Requires Dubs Skylights and Glass+Lights.
+Requires Dubs Skylights. Will not modify anything unless there is an item with the defName "Glass".
 
-Thanks to BJR1984 for help with 1.1 updates.
+Change Log:
+
+Version 0.1.1.0 - Updated for RimWorld version 1.1. Thanks to BJR1984 for help with 1.1 updates.
+
+Version 0.1.2.0 - Updated for RimWorld version 1.2. Adjusted number of panes of glass required for the skylights to match the changes Dub made in the main mod. Added support for spoden's "Just Glass" mod, or any other mod that adds an object with the defName "Glass"
 
 	</description>
 </ModMetaData>
