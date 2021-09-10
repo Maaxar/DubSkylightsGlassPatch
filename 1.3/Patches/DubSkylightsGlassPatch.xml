@@ -42,6 +42,9 @@
 				<xpath>/Defs/RecipeDef[defName = "SmeltGlass"]</xpath>
 			</li>
 			<li Class="PatchOperationRemove">
+				<xpath>/Defs/RecipeDef[defName = "SmeltGlass4x"]</xpath>
+			</li>
+			<li Class="PatchOperationRemove">
 				<xpath>/Defs/ThingDef[defName = "GlassPane"]</xpath>
 			</li>
 		</operations>
