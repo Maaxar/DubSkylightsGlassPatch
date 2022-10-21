@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Dubs Skylights Ingredients Patch</name>
+	<name>Dubs Skylights Glass+Lights Patch</name>
 	<author>Maaxar</author>
 	<supportedVersions>
 		<li>1.0</li>
@@ -11,15 +11,19 @@
 	</supportedVersions>
 	<packageId>Maaxar.DubsSkylights.glasslights.patch</packageId>
 	<description>
-Patches the skylights in Dubs Skylights mod to use the Glass from NanoCE's Glass+Lights mod, spoden's "Just Glass" mod, or any other mod that adds an object with the defName "Glass".
+Patches the skylights in Dubs Skylights mod to use the Glass from NanoCE's Glass+Lights mod, spoden's "Just Glass" mod, or any other mod that adds an object with the defName "Glass". It will also patch the additional skylight sizes added by BJR1984's "Dubs Skylights Addon" mod. 
 
 Dubs Skylights - https://steamcommunity.com/sharedfiles/filedetails/?id=833899765
+Dubs Skylights Addon - https://steamcommunity.com/sharedfiles/filedetails/?id=2016959026
+
 Glass+Lights - https://steamcommunity.com/sharedfiles/filedetails/?id=826153738
 Just Glass - https://steamcommunity.com/sharedfiles/filedetails/?id=2045368641
 
 Also removes the "Glass Pane" recipe and item from the Dubs Skylights mod
 
 Requires Dubs Skylights. Will not modify anything unless there is an item with the defName "Glass".
+
+Not compatible with my other mod, "Dubs Skylights TMaterials - Glass Patch". Please choose either this mod or that mod, depending on whether you want to use the glass from "Glass+Lights"/"Just Glass", or the glass from "TMaterials - Glass".
 
 Change Log:
 
@@ -31,7 +35,7 @@ Version 0.1.3.0 - Updated for RimWorld version 1.3.
 
 Version 0.1.3.1 - Updated patch to remove bulk glass recipe added in Dubs Skylights Mod
 
-Version 0.1.4.0 - Updated for RimWorld version 1.4.
+Version 0.1.4.0 - Updated for RimWorld version 1.4. Modified patching code so it also patches the additional skylight sizes added by BJR1984's "Dubs Skylights Addon" mod. 
 
 	</description>
 </ModMetaData>
