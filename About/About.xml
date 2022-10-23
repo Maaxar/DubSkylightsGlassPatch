@@ -10,6 +10,19 @@
 		<li>1.4</li>
 	</supportedVersions>
 	<packageId>Maaxar.DubsSkylights.glasslights.patch</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Dubwise.DubsSkylights</packageId>
+			<displayName>Dubs Skylights</displayName>
+			<downloadUrl>https://github.com/Dubwise56/Skylights/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/833899765</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Dubwise.DubsSkylights</li>
+		<li>nanoce.glasslights</li>
+		<li>spoden.justglass</li>
+	</loadAfter>
 	<description>
 Patches the skylights in Dubs Skylights mod to use the Glass from NanoCE's Glass+Lights mod, spoden's "Just Glass" mod, or any other mod that adds an object with the defName "Glass". It will also patch the additional skylight sizes added by BJR1984's "Dubs Skylights Addon" mod. 
 
