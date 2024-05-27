@@ -53,6 +53,8 @@ Version 0.1.4.0 - Updated for RimWorld version 1.4. Modified patching code so it
 
 Version 0.1.5.0 - Updated for RimWorld version 1.5. Updated mod description to reflect spoden changing his steam handle to nedops.
 
+Version 0.1.5.1 - Merged pull request from Rogue to fix error with Biomes Caverns mod
+
 	</description>
 </ModMetaData>
 
