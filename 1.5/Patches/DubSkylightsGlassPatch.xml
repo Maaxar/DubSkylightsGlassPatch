@@ -12,6 +12,16 @@
 				<xpath>Defs/ThingDef/costList/GlassPane</xpath>
 				<name>Glass</name>
 			</li>
+			<li Class="PatchOperationSetName">
+				<success>Always</success>
+				<xpath>Defs/RecipeDef/ingredients/GlassPane</xpath>
+				<name>Glass</name>
+			</li>
+			<li Class="PatchOperationSetName">
+				<success>Always</success>
+				<xpath>Defs/RecipeDef/products/GlassPane</xpath>
+				<name>Glass</name>
+			</li>
 			<li Class="PatchOperationRemove">
 				<xpath>/Defs/RecipeDef[defName = "SmeltGlass"]</xpath>
 			</li>
