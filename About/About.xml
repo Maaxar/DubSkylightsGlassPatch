@@ -24,6 +24,7 @@
 		<li>Dubwise.DubsSkylights</li>
 		<li>nanoce.glasslights</li>
 		<li>spoden.justglass</li>
+		<li>ReBuild.COTR.DoorsAndCorners</li>
 	</loadAfter>
 	<description>
 Patches the skylights in Dubs Skylights mod to use the Glass from NanoCE's Glass+Lights mod, nedops's "Just Glass" mod, or any other mod that adds an object with the defName "Glass". It will also patch the additional skylight sizes added by BJR1984's "Dubs Skylights Addon" mod. 
@@ -57,6 +58,8 @@ Version 0.1.5.0 - Updated for RimWorld version 1.5. Updated mod description to r
 Version 0.1.5.1 - Merged pull request from Rogue to fix error with Biomes Caverns mod
 
 Version 0.1.6.0 - Updated for RimWorld version 1.6.
+
+Version 0.1.6.1 - Added loadAfter tag to About.xml for ReBuild.COTR.DoorsAndCorners.
 
 	</description>
 </ModMetaData>
